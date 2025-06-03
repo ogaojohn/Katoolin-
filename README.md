@@ -35,8 +35,8 @@ Before updating your system , please remove all Kali-linux repositories to avoid
 Please visit https://github.com/ogaojohn/katoolin/issues
 
 # Donations
-- Paypal : https://www.paypal.me/lionsec
-- skrill : informatica98es@gmail.com
+- Paypal : https://www.paypal.me/ogaojohn
+- skrill : ogaojohn10@gmail.com
 
 
 # Contact
